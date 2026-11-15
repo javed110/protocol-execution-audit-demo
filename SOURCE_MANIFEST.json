@@ -1,0 +1,27 @@
+{
+  "edition": "Code-only public teaching demonstration",
+  "source_snapshot": "caf3248f3ea6e73779b2762ed0011c15bd9b95df",
+  "files": [
+    {
+      "path": "prototype.py",
+      "source_repository": "pcc26-causalevidence-guard",
+      "source_commit": "caf3248f3ea6e73779b2762ed0011c15bd9b95df",
+      "git_blob_sha": "8fbafecf27cfa4681de8e99d5b19dc1427d912f3",
+      "sha256": "b26fc8587aa9c782cefc262a829842e9e261b73052268e64c7bae52963160dad"
+    },
+    {
+      "path": "test_prototype.py",
+      "source_repository": "pcc26-causalevidence-guard",
+      "source_commit": "caf3248f3ea6e73779b2762ed0011c15bd9b95df",
+      "git_blob_sha": "0b026881485d9862e25167ea7eeaeb1f0f34dd0e",
+      "sha256": "76269f10f4e4bb5f5a91fd57919aa875ae179930147643dd97fbf0f6b40c9eef"
+    },
+    {
+      "path": "requirements.txt",
+      "source_repository": "pcc26-causalevidence-guard",
+      "source_commit": "caf3248f3ea6e73779b2762ed0011c15bd9b95df",
+      "git_blob_sha": "275cfa993eb8f3afe08eba5d0b5c23364800033d",
+      "sha256": "914fd4c41da8c0fa8068b26ab59da94e8e4397bd748c3f24293f9ea2e50122b1"
+    }
+  ]
+}
